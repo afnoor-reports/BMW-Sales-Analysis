@@ -17,7 +17,7 @@ Dashboard Highlights:
 • Most preferred vehicle colors
 • Preferred fuel types
 • Average engine size and mileage by fuel type
-• Interactive filtering by BMW model and transmission type ![BMW Dashboard Slicers](./2.Slicers.jpg)
+• Interactive filtering by BMW model and transmission type 
 
 Tools & Techniques:
 
