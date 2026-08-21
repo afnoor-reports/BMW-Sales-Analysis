@@ -20,7 +20,7 @@ This dashboard provides an interactive overview of BMW's global sales performanc
 • Preferred fuel types
 • Average engine size and mileage by fuel type
 • Interactive filtering by BMW model and transmission type
-![BMW Dashboard Slicers](./2.Slicers.jpg)
+ ![BMW Dashboard Slicers](./2.Slicers.jpg)
 ## Tools & Techniques
 
 **Power BI**
