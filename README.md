@@ -9,18 +9,18 @@ This dashboard provides an interactive overview of BMW's global sales performanc
 ![BMW Global Sales Dashboard](./1.Dashboard%20Overview.jpg)
 
 ## Dashboard Highlights
+- 5M total cars sold  
+- $402.98B total revenue  
+- 11 BMW models analyzed  
+- 6 operating regions  
+- Sales performance trends from 2010–2024  
+- Regional sales performance  
+- Most preferred vehicle colors  
+- Preferred fuel types  
+- Average engine size and mileage by fuel type  
+- Interactive filtering by BMW model and transmission type
+  ![BMW Dashboard Slicers](./2.Slicers.jpg)
 
-• 5M total cars sold
-• $402.98B total revenue
-• 11 BMW models analyzed
-• 6 operating regions
-• Sales performance trends from 2010–2024
-• Regional sales performance
-• Most preferred vehicle colors
-• Preferred fuel types
-• Average engine size and mileage by fuel type
-• Interactive filtering by BMW model and transmission type
-• ![BMW Dashboard Slicers](./2.Slicers.jpg)
 ## Tools & Techniques
 
 **Power BI**
