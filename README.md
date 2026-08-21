@@ -20,7 +20,7 @@ This dashboard provides an interactive overview of BMW's global sales performanc
 • Preferred fuel types
 • Average engine size and mileage by fuel type
 • Interactive filtering by BMW model and transmission type
- ![BMW Dashboard Slicers](./2.Slicers.jpg)
+• ![BMW Dashboard Slicers](./2.Slicers.jpg)
 ## Tools & Techniques
 
 **Power BI**
@@ -36,6 +36,4 @@ The main objective of this project was to transform raw automotive sales data in
 
 Anyone trying to learn BI reporting from scratch can use [this dataset](./new%20bmw%20sales%202010-2024.xlsx).
 
-## Interactive Slicers
 
-![BMW Dashboard Slicers](./2.Slicers.jpg)
