@@ -1,11 +1,8 @@
 BMW Global Sales Dashboard | Power BI
 
-This report has been made using dataset containing the sales record of BMW cars from 2010 to 2024.
-
-Dashboard Preview
-![BMW Global Sales Dashboard](./1.Dashboard%20Overview.jpg)
-
+This report has been made using dataset containing the sales record of BMW cars from 2010 to 2024
 This dashboard provides an interactive overview of BMW's global sales performance, revenue, regional distribution, and customer preferences.
+
 Dashboard Highlights:
 
 • 5M total cars sold
