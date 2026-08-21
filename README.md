@@ -1,6 +1,6 @@
 # BMW Global Sales Dashboard | Power BI
 
-![BMW Global Sales Dashboard](./images/dashboard.png)
+![BMW Global Sales Dashboard](./images/dashboard.jpg)
 
 Overview
 This project presents an interactive **Power BI dashboard** built from BMW’s global sales dataset (2010–2024).  
